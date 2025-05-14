@@ -1,0 +1,3 @@
+from .main_page_locators import MainPageLocators
+from .product_page_locators import ProductPageLocators
+from .product_listing_page_locators import ProductListingPageLocators
